@@ -1,0 +1,166 @@
+C:\Users\DECAGON\source\repos\ContactBookApi\ContactBookApi\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\DECAGON\source\repos\ContactBookApi\ContactBookApi\bin\Debug\net7.0\appsettings.json
+C:\Users\DECAGON\source\repos\ContactBookApi\ContactBookApi\bin\Debug\net7.0\ContactBookApi.exe
+C:\Users\DECAGON\source\repos\ContactBookApi\ContactBookApi\bin\Debug\net7.0\ContactBookApi.deps.json
+C:\Users\DECAGON\source\repos\ContactBookApi\ContactBookApi\bin\Debug\net7.0\ContactBookApi.runtimeconfig.json
+C:\Users\DECAGON\source\repos\ContactBookApi\ContactBookApi\bin\Debug\net7.0\ContactBookApi.dll
+C:\Users\DECAGON\source\repos\ContactBookApi\ContactBookApi\bin\Debug\net7.0\ContactBookApi.pdb
+C:\Users\DECAGON\source\repos\ContactBookApi\ContactBookApi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\DECAGON\source\repos\ContactBookApi\ContactBookApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\DECAGON\source\repos\ContactBookApi\ContactBookApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\DECAGON\source\repos\ContactBookApi\ContactBookApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\DECAGON\source\repos\ContactBookApi\ContactBookApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\DECAGON\source\repos\ContactBookApi\ContactBookApi\obj\Debug\net7.0\ContactBookApi.csproj.AssemblyReference.cache
+C:\Users\DECAGON\source\repos\ContactBookApi\ContactBookApi\obj\Debug\net7.0\ContactBookApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DECAGON\source\repos\ContactBookApi\ContactBookApi\obj\Debug\net7.0\ContactBookApi.AssemblyInfoInputs.cache
+C:\Users\DECAGON\source\repos\ContactBookApi\ContactBookApi\obj\Debug\net7.0\ContactBookApi.AssemblyInfo.cs
+C:\Users\DECAGON\source\repos\ContactBookApi\ContactBookApi\obj\Debug\net7.0\ContactBookApi.csproj.CoreCompileInputs.cache
+C:\Users\DECAGON\source\repos\ContactBookApi\ContactBookApi\obj\Debug\net7.0\ContactBookApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\DECAGON\source\repos\ContactBookApi\ContactBookApi\obj\Debug\net7.0\ContactBookApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DECAGON\source\repos\ContactBookApi\ContactBookApi\obj\Debug\net7.0\staticwebassets\msbuild.ContactBookApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\DECAGON\source\repos\ContactBookApi\ContactBookApi\obj\Debug\net7.0\staticwebassets\msbuild.build.ContactBookApi.props
+C:\Users\DECAGON\source\repos\ContactBookApi\ContactBookApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ContactBookApi.props
+C:\Users\DECAGON\source\repos\ContactBookApi\ContactBookApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ContactBookApi.props
+C:\Users\DECAGON\source\repos\ContactBookApi\ContactBookApi\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\DECAGON\source\repos\ContactBookApi\ContactBookApi\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\DECAGON\source\repos\ContactBookApi\ContactBookApi\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\DECAGON\source\repos\ContactBookApi\ContactBookApi\obj\Debug\net7.0\scopedcss\bundle\ContactBookApi.styles.css
+C:\Users\DECAGON\source\repos\ContactBookApi\ContactBookApi\obj\Debug\net7.0\ContactBookApi.csproj.CopyComplete
+C:\Users\DECAGON\source\repos\ContactBookApi\ContactBookApi\obj\Debug\net7.0\ContactBookApi.dll
+C:\Users\DECAGON\source\repos\ContactBookApi\ContactBookApi\obj\Debug\net7.0\refint\ContactBookApi.dll
+C:\Users\DECAGON\source\repos\ContactBookApi\ContactBookApi\obj\Debug\net7.0\ContactBookApi.pdb
+C:\Users\DECAGON\source\repos\ContactBookApi\ContactBookApi\obj\Debug\net7.0\ContactBookApi.genruntimeconfig.cache
+C:\Users\DECAGON\source\repos\ContactBookApi\ContactBookApi\obj\Debug\net7.0\ref\ContactBookApi.dll
+C:\Users\DECAGON\source\repos\ContactBookApi\ContactBookApi\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\DECAGON\source\repos\ContactBookApi\ContactBookApi\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\DECAGON\source\repos\ContactBookApi\ContactBookApi\bin\Debug\net7.0\Humanizer.dll
+C:\Users\DECAGON\source\repos\ContactBookApi\ContactBookApi\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\DECAGON\source\repos\ContactBookApi\ContactBookApi\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\DECAGON\source\repos\ContactBookApi\ContactBookApi\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\DECAGON\source\repos\ContactBookApi\ContactBookApi\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\DECAGON\source\repos\ContactBookApi\ContactBookApi\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\DECAGON\source\repos\ContactBookApi\ContactBookApi\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\DECAGON\source\repos\ContactBookApi\ContactBookApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\DECAGON\source\repos\ContactBookApi\ContactBookApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\DECAGON\source\repos\ContactBookApi\ContactBookApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\DECAGON\source\repos\ContactBookApi\ContactBookApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\DECAGON\source\repos\ContactBookApi\ContactBookApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\DECAGON\source\repos\ContactBookApi\ContactBookApi\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\DECAGON\source\repos\ContactBookApi\ContactBookApi\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\DECAGON\source\repos\ContactBookApi\ContactBookApi\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\DECAGON\source\repos\ContactBookApi\ContactBookApi\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\DECAGON\source\repos\ContactBookApi\ContactBookApi\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\DECAGON\source\repos\ContactBookApi\ContactBookApi\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\DECAGON\source\repos\ContactBookApi\ContactBookApi\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\DECAGON\source\repos\ContactBookApi\ContactBookApi\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\DECAGON\source\repos\ContactBookApi\ContactBookApi\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\DECAGON\source\repos\ContactBookApi\ContactBookApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\DECAGON\source\repos\ContactBookApi\ContactBookApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\DECAGON\source\repos\ContactBookApi\ContactBookApi\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\DECAGON\source\repos\ContactBookApi\ContactBookApi\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\DECAGON\source\repos\ContactBookApi\ContactBookApi\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\DECAGON\source\repos\ContactBookApi\ContactBookApi\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\DECAGON\source\repos\ContactBookApi\ContactBookApi\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\DECAGON\source\repos\ContactBookApi\ContactBookApi\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\DECAGON\source\repos\ContactBookApi\ContactBookApi\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\DECAGON\source\repos\ContactBookApi\ContactBookApi\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\DECAGON\source\repos\ContactBookApi\ContactBookApi\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\DECAGON\source\repos\ContactBookApi\ContactBookApi\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\DECAGON\source\repos\ContactBookApi\ContactBookApi\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DECAGON\source\repos\ContactBookApi\ContactBookApi\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\DECAGON\source\repos\ContactBookApi\ContactBookApi\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\DECAGON\source\repos\ContactBookApi\ContactBookApi\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\DECAGON\source\repos\ContactBookApi\ContactBookApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\DECAGON\source\repos\ContactBookApi\ContactBookApi\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DECAGON\source\repos\ContactBookApi\ContactBookApi\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DECAGON\source\repos\ContactBookApi\ContactBookApi\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DECAGON\source\repos\ContactBookApi\ContactBookApi\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DECAGON\source\repos\ContactBookApi\ContactBookApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\DECAGON\source\repos\ContactBookApi\ContactBookApi\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\DECAGON\source\repos\ContactBookApi\ContactBookApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\DECAGON\source\repos\ContactBookApi\ContactBookApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\DECAGON\source\repos\ContactBookApi\ContactBookApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DECAGON\source\repos\ContactBookApi\ContactBookApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\HP\Downloads\ContactBookApiUpdated 4 1\ContactBookApi\ContactBookApi\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\HP\Downloads\ContactBookApiUpdated 4 1\ContactBookApi\ContactBookApi\bin\Debug\net7.0\appsettings.json
+C:\Users\HP\Downloads\ContactBookApiUpdated 4 1\ContactBookApi\ContactBookApi\bin\Debug\net7.0\ContactBookApi.exe
+C:\Users\HP\Downloads\ContactBookApiUpdated 4 1\ContactBookApi\ContactBookApi\bin\Debug\net7.0\ContactBookApi.deps.json
+C:\Users\HP\Downloads\ContactBookApiUpdated 4 1\ContactBookApi\ContactBookApi\bin\Debug\net7.0\ContactBookApi.runtimeconfig.json
+C:\Users\HP\Downloads\ContactBookApiUpdated 4 1\ContactBookApi\ContactBookApi\bin\Debug\net7.0\ContactBookApi.dll
+C:\Users\HP\Downloads\ContactBookApiUpdated 4 1\ContactBookApi\ContactBookApi\bin\Debug\net7.0\ContactBookApi.pdb
+C:\Users\HP\Downloads\ContactBookApiUpdated 4 1\ContactBookApi\ContactBookApi\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\HP\Downloads\ContactBookApiUpdated 4 1\ContactBookApi\ContactBookApi\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\HP\Downloads\ContactBookApiUpdated 4 1\ContactBookApi\ContactBookApi\bin\Debug\net7.0\Humanizer.dll
+C:\Users\HP\Downloads\ContactBookApiUpdated 4 1\ContactBookApi\ContactBookApi\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\HP\Downloads\ContactBookApiUpdated 4 1\ContactBookApi\ContactBookApi\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\HP\Downloads\ContactBookApiUpdated 4 1\ContactBookApi\ContactBookApi\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\HP\Downloads\ContactBookApiUpdated 4 1\ContactBookApi\ContactBookApi\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\HP\Downloads\ContactBookApiUpdated 4 1\ContactBookApi\ContactBookApi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\HP\Downloads\ContactBookApiUpdated 4 1\ContactBookApi\ContactBookApi\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\HP\Downloads\ContactBookApiUpdated 4 1\ContactBookApi\ContactBookApi\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Downloads\ContactBookApiUpdated 4 1\ContactBookApi\ContactBookApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\HP\Downloads\ContactBookApiUpdated 4 1\ContactBookApi\ContactBookApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\HP\Downloads\ContactBookApiUpdated 4 1\ContactBookApi\ContactBookApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\HP\Downloads\ContactBookApiUpdated 4 1\ContactBookApi\ContactBookApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\HP\Downloads\ContactBookApiUpdated 4 1\ContactBookApi\ContactBookApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\HP\Downloads\ContactBookApiUpdated 4 1\ContactBookApi\ContactBookApi\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\HP\Downloads\ContactBookApiUpdated 4 1\ContactBookApi\ContactBookApi\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\HP\Downloads\ContactBookApiUpdated 4 1\ContactBookApi\ContactBookApi\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\HP\Downloads\ContactBookApiUpdated 4 1\ContactBookApi\ContactBookApi\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\HP\Downloads\ContactBookApiUpdated 4 1\ContactBookApi\ContactBookApi\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\HP\Downloads\ContactBookApiUpdated 4 1\ContactBookApi\ContactBookApi\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\HP\Downloads\ContactBookApiUpdated 4 1\ContactBookApi\ContactBookApi\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\HP\Downloads\ContactBookApiUpdated 4 1\ContactBookApi\ContactBookApi\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\HP\Downloads\ContactBookApiUpdated 4 1\ContactBookApi\ContactBookApi\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\HP\Downloads\ContactBookApiUpdated 4 1\ContactBookApi\ContactBookApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\HP\Downloads\ContactBookApiUpdated 4 1\ContactBookApi\ContactBookApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\HP\Downloads\ContactBookApiUpdated 4 1\ContactBookApi\ContactBookApi\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\HP\Downloads\ContactBookApiUpdated 4 1\ContactBookApi\ContactBookApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\HP\Downloads\ContactBookApiUpdated 4 1\ContactBookApi\ContactBookApi\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\HP\Downloads\ContactBookApiUpdated 4 1\ContactBookApi\ContactBookApi\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\HP\Downloads\ContactBookApiUpdated 4 1\ContactBookApi\ContactBookApi\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\HP\Downloads\ContactBookApiUpdated 4 1\ContactBookApi\ContactBookApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\HP\Downloads\ContactBookApiUpdated 4 1\ContactBookApi\ContactBookApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\HP\Downloads\ContactBookApiUpdated 4 1\ContactBookApi\ContactBookApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\HP\Downloads\ContactBookApiUpdated 4 1\ContactBookApi\ContactBookApi\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\HP\Downloads\ContactBookApiUpdated 4 1\ContactBookApi\ContactBookApi\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\HP\Downloads\ContactBookApiUpdated 4 1\ContactBookApi\ContactBookApi\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\HP\Downloads\ContactBookApiUpdated 4 1\ContactBookApi\ContactBookApi\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\HP\Downloads\ContactBookApiUpdated 4 1\ContactBookApi\ContactBookApi\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\HP\Downloads\ContactBookApiUpdated 4 1\ContactBookApi\ContactBookApi\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\HP\Downloads\ContactBookApiUpdated 4 1\ContactBookApi\ContactBookApi\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HP\Downloads\ContactBookApiUpdated 4 1\ContactBookApi\ContactBookApi\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\HP\Downloads\ContactBookApiUpdated 4 1\ContactBookApi\ContactBookApi\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\HP\Downloads\ContactBookApiUpdated 4 1\ContactBookApi\ContactBookApi\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Downloads\ContactBookApiUpdated 4 1\ContactBookApi\ContactBookApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Downloads\ContactBookApiUpdated 4 1\ContactBookApi\ContactBookApi\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Downloads\ContactBookApiUpdated 4 1\ContactBookApi\ContactBookApi\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Downloads\ContactBookApiUpdated 4 1\ContactBookApi\ContactBookApi\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Downloads\ContactBookApiUpdated 4 1\ContactBookApi\ContactBookApi\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Downloads\ContactBookApiUpdated 4 1\ContactBookApi\ContactBookApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\HP\Downloads\ContactBookApiUpdated 4 1\ContactBookApi\ContactBookApi\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\HP\Downloads\ContactBookApiUpdated 4 1\ContactBookApi\ContactBookApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\HP\Downloads\ContactBookApiUpdated 4 1\ContactBookApi\ContactBookApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\HP\Downloads\ContactBookApiUpdated 4 1\ContactBookApi\ContactBookApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HP\Downloads\ContactBookApiUpdated 4 1\ContactBookApi\ContactBookApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\HP\Downloads\ContactBookApiUpdated 4 1\ContactBookApi\ContactBookApi\obj\Debug\net7.0\ContactBookApi.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\ContactBookApiUpdated 4 1\ContactBookApi\ContactBookApi\obj\Debug\net7.0\ContactBookApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Downloads\ContactBookApiUpdated 4 1\ContactBookApi\ContactBookApi\obj\Debug\net7.0\ContactBookApi.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\ContactBookApiUpdated 4 1\ContactBookApi\ContactBookApi\obj\Debug\net7.0\ContactBookApi.AssemblyInfo.cs
+C:\Users\HP\Downloads\ContactBookApiUpdated 4 1\ContactBookApi\ContactBookApi\obj\Debug\net7.0\ContactBookApi.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\ContactBookApiUpdated 4 1\ContactBookApi\ContactBookApi\obj\Debug\net7.0\ContactBookApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\HP\Downloads\ContactBookApiUpdated 4 1\ContactBookApi\ContactBookApi\obj\Debug\net7.0\ContactBookApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HP\Downloads\ContactBookApiUpdated 4 1\ContactBookApi\ContactBookApi\obj\Debug\net7.0\staticwebassets\msbuild.ContactBookApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\HP\Downloads\ContactBookApiUpdated 4 1\ContactBookApi\ContactBookApi\obj\Debug\net7.0\staticwebassets\msbuild.build.ContactBookApi.props
+C:\Users\HP\Downloads\ContactBookApiUpdated 4 1\ContactBookApi\ContactBookApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ContactBookApi.props
+C:\Users\HP\Downloads\ContactBookApiUpdated 4 1\ContactBookApi\ContactBookApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ContactBookApi.props
+C:\Users\HP\Downloads\ContactBookApiUpdated 4 1\ContactBookApi\ContactBookApi\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\HP\Downloads\ContactBookApiUpdated 4 1\ContactBookApi\ContactBookApi\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\HP\Downloads\ContactBookApiUpdated 4 1\ContactBookApi\ContactBookApi\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\HP\Downloads\ContactBookApiUpdated 4 1\ContactBookApi\ContactBookApi\obj\Debug\net7.0\scopedcss\bundle\ContactBookApi.styles.css
+C:\Users\HP\Downloads\ContactBookApiUpdated 4 1\ContactBookApi\ContactBookApi\obj\Debug\net7.0\ContactBookApi.csproj.CopyComplete
+C:\Users\HP\Downloads\ContactBookApiUpdated 4 1\ContactBookApi\ContactBookApi\obj\Debug\net7.0\ContactBookApi.dll
+C:\Users\HP\Downloads\ContactBookApiUpdated 4 1\ContactBookApi\ContactBookApi\obj\Debug\net7.0\refint\ContactBookApi.dll
+C:\Users\HP\Downloads\ContactBookApiUpdated 4 1\ContactBookApi\ContactBookApi\obj\Debug\net7.0\ContactBookApi.pdb
+C:\Users\HP\Downloads\ContactBookApiUpdated 4 1\ContactBookApi\ContactBookApi\obj\Debug\net7.0\ContactBookApi.genruntimeconfig.cache
+C:\Users\HP\Downloads\ContactBookApiUpdated 4 1\ContactBookApi\ContactBookApi\obj\Debug\net7.0\ref\ContactBookApi.dll
